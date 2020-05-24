@@ -1,0 +1,53 @@
+﻿#camera-box{
+	width:800px;
+	height:490px;
+	margin: 0 auto;
+	margin-top: 7%;
+	text-align: center;	
+	background: #00000090;
+	padding: 20px 50px;
+	font-size: 20px;
+	border-radius: 30px;
+}
+
+
+
+#camera-box h1{
+	font-size: 50px;
+	color: #fff;
+	font-style: Times, serif;
+}
+
+#camera-box h2{
+	font-size: 22px;
+	color: #fff;
+	font-style: Times, serif;
+}
+
+#camera-box h3{
+	font-size: 20px;
+	color: #fff;
+	font-style: Times, serif;
+}
+
+
+#camera-box button{
+	margin-top: 25px;
+	width: 250px;
+	height: 45px;
+	font-size: 22px;
+	font-weight: 710;
+	font-style: Times, serif;
+	border: 0;
+	border-radius: 15px;
+	
+}
+
+#camera-box .others{	
+	font-size: 16px;
+	font-style: Times, serif;
+	color: #fff;
+	
+	
+}
+	

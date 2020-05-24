@@ -1,0 +1,77 @@
+#login-box{
+	width:500px;
+	height:420px;
+	margin: 0 auto;
+	margin-top: 12%;
+	text-align: center;	
+	background: #00000090;
+	padding: 20px 50px;
+	font-size: 20px;
+	border-radius: 30px;
+}
+
+#login-box .form .item{
+	margin-top:15px;
+}
+
+#login-box .form .item i{
+	font-size: 22px;
+	color: #fff;
+}
+
+#login-box .form .remember{
+	font-size: 50px;
+	color: #fff;
+}
+
+
+#login-box h1{
+	font-size: 50px;
+	color: #fff;
+	font-style: Times, serif;	
+}
+
+#login-box h3{
+	margin-right: 15%;
+	font-size: 16px;
+	color: #fff;
+	font-weight: 150;
+	font-style: Times, serif;	
+}
+
+#login-box h4{
+	font-size: 16px;
+	color: #fff;
+	font-weight: 150;
+	font-style: Times, serif;	
+}
+
+#login-box .form .item input{
+	width: 180px;
+	font-size: 22px;
+	border:0; 
+	border-bottom: 2.5px solid #fff;
+	padding: 5px;
+	background: #ffffff00;
+	color: #fff;
+}
+
+#login-box button{
+	margin-top: 20px;
+	width:180px;
+	height: 30px;
+	font-size: 20px;
+	font-weight: 710;
+	background-color: #44c767;
+	border: 0;
+	border-radius: 15px;
+}
+
+#login-box .others{
+	font-size: 16px;
+	font-style: Times, serif;
+	color: #fff;
+	
+	
+}
+	
